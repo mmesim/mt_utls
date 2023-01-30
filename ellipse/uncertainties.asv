@@ -1,6 +1,5 @@
 %This is a script to calcualte a 95% ellipse 
-%For Strike/Dip and Rake/Strike
-% The erros correspond to semi-major/minor axes.
+%For strike/Dip and 
 clear; clc ; close all
 
 %% load file
